@@ -1,1 +1,3 @@
-# music-viz
+# SoundScape Music Vizualization
+
+This project is a toolkit for music analysis and visualization (originally designed to visualize music in VR using Unity). It features advanced algorithms for beat detection, energy level measurement, and smooth volume analysis. The toolkit breaks down music into various frequency bands and detects key musical elements such as the track's key, transient pulses, harmonic content, and melody line. It also includes analysis of timbral features, dynamic range, vocal presence, harmonic progressions, and rhythmic patterns. The project is designed as an exploration into computational musicology and working with complex data in VR. Data serialization features are included to facilitate further processing and visualization of the analyzed music data.
